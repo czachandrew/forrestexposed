@@ -1,17 +1,17 @@
 <template>
   <section class="section">
     <div class="jumbotron">
-      <h1 class="display-4">The Forrest Country Club Exposed</h1>
+      <h1 class="display-4">The Forest Country Club Exposed</h1>
       <p class="lead">
         This website is to make public the hidden problems and lawsuits of the
         Forest country club being experience by current and former members.
       </p>
       <hr class="my-4" />
       <p>
-        All public information from Todd Ferguson’s pending filings against the
-        forest country club and the director of golf and the GM specifically
-        will be posted here as well as all discovery and public information
-        regarding the lawsuits.
+        All public information regarding from the very upset father of an
+        autistic man’s pending filings against the Forest Country Club and the
+        Director of Golf and the GM specifically will be posted here as well as
+        all discovery and public information regarding the lawsuits.
       </p>
       <h2>Update and member forum coming soon!</h2>
       <a
